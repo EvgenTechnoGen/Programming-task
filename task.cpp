@@ -21,3 +21,6 @@ int main () {
         std::cout << "Неправильный ответ!" << std::endl;
     }
     
+    
+    return 0;
+}
