@@ -10,3 +10,5 @@ int main () {
     std::cin >> a >> b;
 
     c = a * b;
+
+    std::cout << "Чему равно произведение этих чисел?" << std::endl;
