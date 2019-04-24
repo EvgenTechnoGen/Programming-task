@@ -12,3 +12,4 @@ int main () {
     c = a * b;
 
     std::cout << "Чему равно произведение этих чисел?" << std::endl;
+    std::cin >> d;
