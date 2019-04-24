@@ -7,3 +7,4 @@ int main () {
 
     
     std::cout << "Введите два однозначных числа." << std::endl;
+    std::cin >> a >> b;
