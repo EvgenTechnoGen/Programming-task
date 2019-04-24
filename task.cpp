@@ -13,3 +13,7 @@ int main () {
 
     std::cout << "Чему равно произведение этих чисел?" << std::endl;
     std::cin >> d;
+
+    if (d == c) {
+        std::cout << "Правильный ответ!" << std::endl;
+    }
