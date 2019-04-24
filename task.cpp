@@ -17,3 +17,7 @@ int main () {
     if (d == c) {
         std::cout << "Правильный ответ!" << std::endl;
     }
+    else if (c != d) {
+        std::cout << "Неправильный ответ!" << std::endl;
+    }
+    
